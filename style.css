@@ -1,0 +1,71 @@
+nav {
+    background: #45c7ff;
+    font: white;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 50%;
+    padding-right: 30px;
+    position: fixed;
+    width: 100%
+    
+}
+
+a{
+    font: white;
+    color: white;
+    text-decoration: none;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+    font-family: "Coming Soon", cursive;
+    font-weight: 400;
+    font-style: normal;
+    
+}
+
+a:hover{
+    color:white;
+    background: #29a9ff;
+    font-family: "Coming Soon", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+
+body{
+    font-family: "Coming Soon", cursive;
+    font-weight: 400;
+    font-style: normal;
+    margin: 0px;
+    
+    
+    background-image: url(bg.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+
+div#profile{
+    padding: 20px;
+    width: 350px;
+    /**border: 2px blue solid;**/
+    margin-left: 350px;
+    margin-top: 100px;
+    display: inline-block;
+}
+
+div#bio{
+    
+    padding-top: 100px;
+    width: 500px;
+    display: inline-block;
+    /**border: 2px blue solid;**/
+}
+
+div#cool{
+    text-align: center;
+    padding-left: 300px;
+    padding-right: 300px;
+}
+
+/** drag and drop everything in the folder into github. do NOT drop it as a zip
